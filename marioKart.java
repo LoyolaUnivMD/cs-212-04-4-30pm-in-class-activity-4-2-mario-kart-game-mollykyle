@@ -2,10 +2,10 @@
 //Course: CS 212 Mr. Nweke
 //Due Date: 2/8/24
 //Lab Assignment: Class Assignment
-//Problem Statement:
-//Input:
-//Output:
-//Credits:
+//Problem Statement: This program will output characters from Mario Kart and their speed, as well as increase speed
+//Input: none
+//Output: Player name, Character name, speed
+//Credits: none
 public class marioKart { //Start of class
    //public static void main(String[] args) {
 
